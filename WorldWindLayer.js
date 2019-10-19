@@ -33,7 +33,11 @@ function changeMap(choice){
     var wmsConfig = WorldWind.WmsLayer.formLayerConfiguration(wmsLayerCapabilities);
     var wmsLayer = new WorldWind.WmsLayer(wmsConfig);
     wwd.addLayer(wmsLayer);
+    document.getElementById('legend').src='legend/'+choice+'.png';
+        
 };
+
+
 
 var logError = function (jqXhr, text, exception) {
     console.log("There was a failure retrieving the capabilities document: " +
@@ -43,6 +47,3 @@ var logError = function (jqXhr, text, exception) {
 
 $.get(serviceAddress).done(createLayer).fail(logError);
 }
-
-
-
