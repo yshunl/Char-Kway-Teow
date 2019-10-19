@@ -1,0 +1,197 @@
+[{
+	"Name": "MOD14A1_M_FIRE",
+	"Title": "Active Fires",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_fire_l3.png"
+}, {
+	"Name": "MODAL2_M_AER_OD",
+	"Title": "Aerosol Optical Thickness",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_aer_od.png"
+}, {
+	"Name": "MODAL2_M_AER_RA",
+	"Title": "Aerosol Particle Radius",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_aer_ra.png"
+}, {
+	"Name": "MCD43C3_M_BSA",
+	"Title": "Albedo",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_bs_albedo.png"
+}, {
+	"Name": "MOD_LSTD_CLIM_M",
+	"Title": "Average Land Surface Temperature [Day]",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png"
+}, {
+	"Name": "MOD_LSTN_CLIM_M",
+	"Title": "Average Land Surface Temperature [Night]",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png"
+}, {
+	"Name": "AVHRR_CLIM_M",
+	"Title": "Average Sea Surface Temperature (AVHRR, 1985-97)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/sst_35.png"
+}, {
+	"Name": "GEBCO_BATHY",
+	"Title": "Bathymetry",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/gebco_bathymetry.png"
+}, {
+	"Name": "BlueMarbleNG",
+	"Title": "Blue Marble: Next Generation",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/gebco_bathymetry.png"
+}, {
+	"Name": "MOP_CO_M",
+	"Title": "Carbon Monoxide",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/mopitt_co.png"
+}, {
+	"Name": "MY1DMM_CHLORA",
+	"Title": "Chlorophyll Concentration",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_chlor.png"
+}, {
+	"Name": "MODAL2_M_CLD_FR",
+	"Title": "Cloud Fraction",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_fr.png"
+}, {
+	"Name": "MODAL2_M_CLD_OT",
+	"Title": "Cloud Optical Thickness",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_ot.png"
+}, {
+	"Name": "MODAL2_M_CLD_RD",
+	"Title": "Cloud Particle Radius",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_rd.png"
+}, {
+	"Name": "MODAL2_M_CLD_WP",
+	"Title": "Cloud Water Content",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_wp.png"
+}, {
+	"Name": "MOD_721D_RR",
+	"Title": "False Color (MODIS)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_wp.png"
+}, {
+	"Name": "GISS_TA_M",
+	"Title": "Global Temperature Anomaly",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/giss_tanom_m.png"
+}, {
+	"Name": "ICESAT_ELEV_G",
+	"Title": "Greenland / Antarctica Elevation",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/icesat_elevation.png"
+}, {
+	"Name": "MCD12C1_T1",
+	"Title": "Land Cover Classification",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/icesat_elevation.png"
+}, {
+	"Name": "MOD_LSTAD_M",
+	"Title": "Land Surface Temperature Anomaly [Day]",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_lst_anom.png"
+}, {
+	"Name": "MOD_LSTAN_M",
+	"Title": "Land Surface Temperature Anomaly [Night]",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_lst_anom.png"
+}, {
+	"Name": "MOD_LSTD_M",
+	"Title": "Land Surface Temperature [Day]",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png"
+}, {
+	"Name": "MOD_LSTN_M",
+	"Title": "Land Surface Temperature [Night]",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png"
+}, {
+	"Name": "MOD15A2_M_LAI",
+	"Title": "Leaf Area Index",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_lai.png"
+}, {
+	"Name": "MOD17A2_M_PSN",
+	"Title": "Net Primary Productivity",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_npp.png"
+}, {
+	"Name": "CERES_NETFLUX_M",
+	"Title": "Net Radiation",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/ceres_net.png"
+}, {
+	"Name": "AURA_NO2_M",
+	"Title": "Nitrogen Dioxide",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/omi_no2.png"
+}, {
+	"Name": "CERES_LWFLUX_M",
+	"Title": "Outgoing Longwave Radiation",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/ceres_lw.png"
+}, {
+	"Name": "AURA_OZONE_M",
+	"Title": "Ozone",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/omi_ozone_to3.png"
+}, {
+	"Name": "PermafrostNSIDC",
+	"Title": "Permafrost",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/permafrost_ext.png"
+}, {
+	"Name": "SEDAC_POP",
+	"Title": "Population",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/sedac_pop.png"
+}, {
+	"Name": "TRMM_3B43M",
+	"Title": "Rainfall",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/trmm_rainfall_m.png"
+}, {
+	"Name": "CERES_SWFLUX_M",
+	"Title": "Reflected Shortwave Radiation",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/ceres_sw.png"
+}, {
+	"Name": "SCSIE_W",
+	"Title": "Sea Ice and Snow Extent, Northern Hemisphere",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/ceres_sw.png"
+}, {
+	"Name": "NISE_D",
+	"Title": "Sea Ice Concentration and Snow Extent, Global",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/nise_d.png"
+}, {
+	"Name": "AQUARIUS_SSS_M",
+	"Title": "Sea Surface Salinity (2011-15)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/aquarius_sss.png"
+}, {
+	"Name": "AVHRR_SST_M",
+	"Title": "Sea Surface Temperature (AVHRR, 1981-2006)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/sst_35.png"
+}, {
+	"Name": "MWOI_SST_M",
+	"Title": "Sea Surface Temperature (MWOI, 1998+)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/sst_35.png"
+}, {
+	"Name": "AMSRE_SSTAn_M",
+	"Title": "Sea Surface Temperature Anomaly (AMSR-E, 2002-11)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/amsre_sst_anom.png"
+}, {
+	"Name": "MOD10C1_M_SNOW",
+	"Title": "Snow Cover",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_snow.png"
+}, {
+	"Name": "SWE_M",
+	"Title": "Snow Water Equivalent",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/swe.png"
+}, {
+	"Name": "CERES_INSOL_M",
+	"Title": "Solar Insolation",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/ceres_insol.png"
+}, {
+	"Name": "SRTM_RAMP2_TOPO",
+	"Title": "Topography",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/srtm_topography.png"
+}, {
+	"Name": "MOD_143D_RR",
+	"Title": "True Color (MODIS)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/srtm_topography.png"
+}, {
+	"Name": "VIIRS_543D",
+	"Title": "True Color (VIIRS)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/srtm_topography.png"
+}, {
+	"Name": "AURA_UVI_CLIM_M",
+	"Title": "UV Index",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/omi_uvi.png"
+}, {
+	"Name": "MOD_NDVI_M",
+	"Title": "Vegetation Index [NDVI]",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_ndvi.png"
+}, {
+	"Name": "GRACE_LWE_M",
+	"Title": "Water Equivalent Anomaly (2002-17)",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/grace_lwe_anom.png"
+}, {
+	"Name": "MODAL2_M_SKY_WV",
+	"Title": "Water Vapor",
+	"Legend": "https://neo.sci.gsfc.nasa.gov/palettes/modis_sky_wv.png"
+}]
