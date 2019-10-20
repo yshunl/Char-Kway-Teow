@@ -133,13 +133,20 @@
 
   <img id="legend" src="">
 
-  </a>
+  
  
 </nav>
         <div style="background-image: url('galaxy.jpg'); background-repeat: no-repeat; background-size: 100% 100%; ">
-        <canvas id="canvasOne" width="1024" height="768">
-            Your browser does not support HTML5 Canvas.
-        </canvas>
+           <div class="row"> 
+               <div class="col-md-9" >
+               <canvas id="canvasOne" width="1024" height="768">Your browser does not support HTML5 Canvas.</canvas>
+               </div>
+               <div class="col-md-2" >
+<!--                   <p style="color:white" id="Title">No Dataset Selected</p>-->
+                   <p style="color:white" id="Description"><b>Welcome to Nott @ Space App. One of the best places to study Earth is from space. NASA satellites continually orbit the globe, collecting information about Earth’s ocean, atmosphere, and land surfaces. Satellites can even monitor the activity of life forms, such as phytoplankton, from their remote vantage points. Satellite imagery provides the greatest benefit to the most people when it can be analyzed by anyone with an interest. NEO strives to make global satellite imagery as accessible as possible.</b></p>
+               </div>
+               <div class="col-md-1"></div>
+            </div>
         </div>
         <script 
         src="https://files.worldwind.arc.nasa.gov/artifactory/web/0.9.0/worldwind.min.js"
