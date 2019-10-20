@@ -94,7 +94,6 @@ function changeMap(choice){
     wwd.addLayer(new WorldWind.BMNGOneImageLayer());
     wwd.addLayer(new WorldWind.BMNGLandsatLayer());
     var layerName = choice;
-    window.alert(choice);
     var createLayer = function (xmlDom) {
     var wms = new WorldWind.WmsCapabilities(xmlDom);
     var wmsLayerCapabilities = wms.getNamedLayer(layerName);
